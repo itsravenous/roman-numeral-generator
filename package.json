@@ -1,0 +1,24 @@
+{
+  "name": "roman-numeral-generator",
+  "version": "1.0.0",
+  "description": "Roman numeral generator",
+  "main": "romans.js",
+  "dependencies": {},
+  "devDependencies": {
+    "benchmark": "^2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "benchmark": "node bench"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itsravenous/roman-numeral-generator.git"
+  },
+  "author": "Tom Jardine-McNamara <tom@itsravenous.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/itsravenous/roman-numeral-generator/issues"
+  },
+  "homepage": "https://github.com/itsravenous/roman-numeral-generator#readme"
+}
